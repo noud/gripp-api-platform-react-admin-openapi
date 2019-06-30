@@ -56,7 +56,7 @@ You will be prompted for your credentials:
 
 ![Login](./docs/gripp_client_react_admin_login.png?raw=true "Login")
 
-The username demo and password demo will do. (The inactive username nodemo and password nodemo will not be allowed to login.) @TODO There is still a snag in the backend ApiUser.
+The username demo and password demo will do.
 
 ## Developing
 
