@@ -14,13 +14,13 @@ and demonstrate [API-First](https://swagger.io/resources/articles/adopting-an-ap
 ## API
 
 The application consumes:
-- [RESTful](https://en.wikipedia.org/wiki/Representational_state_transfer) with auto generated documentation conform [OpenAPI](https://swagger.io/specification/)
-     - [JSON-LD](https://json-ld.org/) for [React](https://reactjs.org/) [Admin](https://marmelab.com/react-admin/)
+* [RESTful](https://en.wikipedia.org/wiki/Representational_state_transfer) with auto generated documentation conform [OpenAPI](https://swagger.io/specification/)
+    * [JSON-LD](https://json-ld.org/)
 
 ## Security
 
 The application has a security measure:
-- [JWT Authentication](https://jwt.io/) for RESTful API
+* [JWT Authentication](https://jwt.io/) for RESTful API
 
 ## Provisioning
 
