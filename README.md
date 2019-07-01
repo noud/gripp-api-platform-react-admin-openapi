@@ -64,7 +64,5 @@ Feel free to contribute.
 
 ## Tools
 
-Created with [Nodeclipse](https://nodeclipse.github.io/projects/nodejs)
- ([Eclipse Marketplace](https://marketplace.eclipse.org/content/nodeclipsegithubio))   
-
-Eclipse is free open-source project that grows with your contributions.
+Created with [React in Eclipse](https://www.genuitec.com/tech/react-in-eclipse) ([Eclipse Marketplace](https://marketplace.eclipse.org/content/react-codemix))   
+[Eclipse](https://www.eclipse.org/) is free open-source project that grows with your contributions.
