@@ -7,7 +7,7 @@
 
 This is a [React](https://reactjs.org/) [Admin](https://marmelab.com/react-admin/) client application that does work with
 
-[Gripp client Symfony](https://github.com/noud/gripp_client_symfony/blob/master/README.md)
+[Gripp Symfony](https://github.com/noud/gripp_symfony/blob/master/README.md)
 
 and demonstrate [API-First](https://swagger.io/resources/articles/adopting-an-api-first-approach/) development to facilitate a [Rapid-application development (RAD)](https://en.wikipedia.org/wiki/Rapid_application_development) process.
 
@@ -41,7 +41,7 @@ You can now view gripp-admin in the browser.
   Local:            http://localhost:3000/
   On Your Network:  http://172.20.0.6:3000/
 ```
-Add this Your Network url to your [Gripp client Symfony](https://github.com/noud/gripp_client_symfony/blob/master/README.md) .env.local file.:
+Add this Your Network url to your [Gripp Symfony](https://github.com/noud/gripp_symfony/blob/master/README.md) .env.local file.:
 ```bash
 CORS_ALLOW_ORIGIN=^http://172.20.0.6(:[0-9]+)?$
 ```
