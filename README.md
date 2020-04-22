@@ -1,9 +1,9 @@
-# Gripp client React Admin
+# React Admin REST to Gripp API
 
-![Gripp client React Admin](./docs/gripp_client_react_admin.png?raw=true "Gripp client React Admin")
+![React Admin REST to Gripp API](./docs/gripp_client_react_admin.png?raw=true "React Admin REST to Gripp API")
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://raw.githubusercontent.com/noud/gripp_api/master/LICENSE)
-[![master](https://img.shields.io/badge/current-dev-aa11ff.svg)](https://github.com/noud/gripp_client_react_admin/releases)
+[![master](https://img.shields.io/badge/current-dev-aa11ff.svg)](https://github.com/noud/react-admin-rest-gripp/releases)
 
 This is a [React](https://reactjs.org/) [Admin](https://marmelab.com/react-admin/) client application that does work with
 
