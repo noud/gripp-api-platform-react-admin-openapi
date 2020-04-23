@@ -1,14 +1,19 @@
 #!/usr/bin/env sh
-rm -r gripp-admin
-rm -r node_modules package-lock.json yarn.lock
-npm install
-node_modules/.bin/create-react-app gripp-admin
+APP_NAME=gripp-admin
 
-cd gripp-admin
+rm -r ${APP_NAME}
 rm -r node_modules package-lock.json yarn.lock
-yarn add @api-platform/admin@^0.6.2
-# yarn add @api-platform/admin@^2.1.0
-# yarn add eslint@^6.6.0 babel-eslint@*10.0.3
+
+npm install
+node_modules/.bin/create-react-app ${APP_NAME}
+
+cd ${APP_NAME}
+rm -r node_modules package-lock.json yarn.lock
+
+yarn add @api-platform/admin@^0.6.3
+# @todo update
+# yarn add @api-platform/admin@^1.0.0
 
 cd .. && bin/edited.sh
-cd gripp-admin && npm install && npm update && npm audit fix && yarn install && yarn start
+cd ${APP_NAME}
+npm install && npm update && npm audit fix && yarn install && yarn start
