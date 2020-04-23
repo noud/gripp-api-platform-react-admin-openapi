@@ -1,4 +1,4 @@
-# [React](https://reactjs.org/) [Admin](https://marmelab.com/react-admin/) REST to [Gripp Symfony](https://github.com/noud/gripp_symfony/blob/master/README.md)
+# [React](https://reactjs.org) [Admin](https://marmelab.com/react-admin) [JWT Authenticated](https://jwt.io) [REST](https://en.wikipedia.org/wiki/REST) [JSON-LD](https://json-ld.org) [API](https://api.gripp.com/public/api3.php) conform [OpenAPI](https://swagger.io/specification) to [Gripp](https://www.gripp.com)
 
 ![React Admin REST to Gripp API](./docs/gripp_client_react_admin.png?raw=true "React Admin REST to Gripp API")
 
@@ -6,17 +6,6 @@
 [![master](https://img.shields.io/badge/current-dev-aa11ff.svg)](https://github.com/noud/react-admin-rest-gripp/releases)
 
 Demonstrate [API-First](https://swagger.io/resources/articles/adopting-an-api-first-approach/) development to facilitate a [Rapid-application development (RAD)](https://en.wikipedia.org/wiki/Rapid_application_development) process.
-
-## API
-
-The application consumes:
-* [RESTful](https://en.wikipedia.org/wiki/Representational_state_transfer) with auto generated documentation conform [OpenAPI](https://swagger.io/specification/)
-    * [JSON-LD](https://json-ld.org/)
-
-## Security
-
-The application has a security measure:
-* [JWT Authentication](https://jwt.io/) for RESTful API
 
 ## Provisioning
 
