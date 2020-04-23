@@ -1,4 +1,4 @@
-# [React](https://reactjs.org) [Admin](https://marmelab.com/react-admin) [JWT Authenticated](https://jwt.io) [REST](https://en.wikipedia.org/wiki/REST) [JSON-LD](https://json-ld.org) conform [OpenAPI](https://swagger.io/specification) to [API v3](https://api.gripp.com/public/api3.php) from [Gripp](https://www.gripp.com)
+# [React](https://reactjs.org) [Admin](https://marmelab.com/react-admin) [JWT Authenticated](https://jwt.io) [REST](https://en.wikipedia.org/wiki/REST) [JSON-LD](https://json-ld.org) conform [OpenAPI](https://swagger.io/specification) to [API v3](https://api.gripp.com/public/api3.php) from [Gripp.com](https://www.gripp.com)
 
 ![React Admin REST to Gripp API](./docs/gripp_client_react_admin.png?raw=true "React Admin REST to Gripp API")
 
