@@ -3,7 +3,7 @@ APP_NAME=gripp-admin
 
 rm -r ${APP_NAME} node_modules package-lock.json yarn.lock
 
-yarn install
+yarn install; yarn upgrade
 node_modules/.bin/create-react-app ${APP_NAME}
 
 cd ${APP_NAME}
